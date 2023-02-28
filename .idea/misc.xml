@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_textview.xml" value="0.192481884057971" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/layout/activity_main.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/layout/activity_textview.xml" value="0.2125" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication2/src/main/res/layout/activity_textview.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_main.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_textview.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_textview2.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_view.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_viewbind.xml" value="0.14918946301925026" />
       </map>
     </option>
   </component>

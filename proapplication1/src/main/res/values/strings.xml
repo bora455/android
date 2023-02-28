@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">ProApplication1</string>
     <string name="app_des">만보기 애플리케이션</string>
+    <string name="long_text1">동해 물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세</string>
+    <string name="long_text2">남산 우헤 저 소나무 철갑을 두른 듯
+    바람이슬 불변함은 우리 긔상일세
+    가을 하날 공활한대 구름 업시 놉고
+    밝은 달은 우리가슴 일편단심일세
+    이 긔상과 이 마음으로 님군을 섬기며
+    괴로오나 질거우나 나라사랑하세
+    후렴
+    무궁화 삼천리 화려강산
+    대한사람 대한으로 길이 보전하세
+    </string>
 </resources>
