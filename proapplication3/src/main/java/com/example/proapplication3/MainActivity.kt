@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     private val binding get() = mBinding!!*/
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_view2)
+        setContentView(R.layout.activity_phone)
         /*mBinding = ActivityViewBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.tvMessage.setText("안녕하세요 김보미입니다.")*/

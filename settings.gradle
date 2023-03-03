@@ -16,3 +16,4 @@ rootProject.name = "ProApplication"
 include ':app'
 include ':proapplication1'
 include ':proapplication3'
+include ':ch8_event'

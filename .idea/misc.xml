@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main1.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main2.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main3.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main4.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main6.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_textview.xml" value="0.192481884057971" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
@@ -11,6 +17,8 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication2/src/main/res/layout/activity_textview.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_main.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_main2.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_phone.xml" value="0.17603850050658562" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_textview.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_textview2.xml" value="0.19655797101449277" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication3/src/main/res/layout/activity_view.xml" value="0.22509057971014493" />
