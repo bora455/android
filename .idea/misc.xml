@@ -3,12 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/android/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/android/src/main/res/layout/activity_main.xml" value="0.11676798378926039" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch09_resource/src/main/res/drawable/round_button.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch09_resource/src/main/res/layout-land/activity_main.xml" value="0.20326278659611993" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch09_resource/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/drawable/round_button.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main1.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main2.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main3.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main4.xml" value="0.14990942028985507" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_main6.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/ch8_event/src/main/res/layout/activity_stop.xml" value="0.17603850050658562" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/mpplication/src/main/res/layout/activity_textview.xml" value="0.192481884057971" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProApplication/proapplication1/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
